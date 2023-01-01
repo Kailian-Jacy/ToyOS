@@ -15,6 +15,9 @@ This involves:
 - Page fault and demand-paging. (lab5)
 - `SYS_CLONE` systemcall and `fork()`. (lab5)
 
+Course demand for each lab refers to:
+https://github.com/ZJU-SEC/os22fall-stu/
+
 ## Running
 
 Run this natively on riscv64:
