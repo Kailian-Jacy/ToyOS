@@ -1,0 +1,3 @@
+.section .fork
+
+.incbin "fork"
